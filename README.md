@@ -5,3 +5,7 @@
 │
 ├── build/
 │   └── build-steps.md
+│
+├── configuration/
+│   ├── bios-settings.md
+│   └── os-installation.md
