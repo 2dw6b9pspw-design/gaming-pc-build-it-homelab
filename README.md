@@ -1,6 +1,6 @@
 # Gaming PC Build & System Configuration Project
 
-![Completed Build](images/completed-build.jpg)
+![Completed Build](images/completed-build.png)
 
 ## Project Overview
 
